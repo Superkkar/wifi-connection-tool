@@ -7,7 +7,7 @@ The scripts dynamically generate temporary Wi‑Fi profiles (XML format), attemp
 
 > ⚠️ **Important Notice**  
 > This project is intended **only for educational, testing, or administrative purposes** on networks you **own or are explicitly authorized to manage**.  
-> **The author does not assume any responsibility for misuse, damage, or illegal use of this software.**  
+> **I does not assume any responsibility for misuse, damage, or illegal use of this software.**  
 > Users are solely responsible for ensuring compliance with **local laws and regulations**.
 ---
 
@@ -82,9 +82,10 @@ This mode demonstrates how **bruteforce password generation** works within contr
 
 This software is provided **“as is”**, without warranty of any kind.
 
-The author **explicitly disclaims any liability** for:
+I **explicitly disclaim any liability** for:
 - Unauthorized access attempts
 - Network disruption
 - Legal consequences arising from misuse
 
 Use this project **only on networks you own or have explicit permission to test**.
+
